@@ -33,13 +33,10 @@ Install using:
 
 
 ## How to Run
+Open a terminal or command prompt and navigate to the directory containing the script. Run the scrip using the following command:
 
-Open a terminal or command prompt and navigate to the directory containing the script. Run the script using the following command:
-
-
-```
+``
   python temperature_converter.py
-
 
 # Note
 Ensure that you enter a valid numeric value for the temperature.
@@ -47,3 +44,5 @@ If you encounter any issues, make sure to check the error messages for guidance.
 Feel free to contribute to or modify the script based on your needs.
 
 Enjoy converting temperatures!
+
+

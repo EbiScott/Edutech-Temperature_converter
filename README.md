@@ -28,12 +28,16 @@ No additional installation is required. Simply download the script and run it us
 
 This script uses the [Pint](https://pint.readthedocs.io/) library for unit conversion. The necessary dependencies will be installed automatically when you run the script.
 Install using:
+``` Bash
      pip install pint
+```
 
 
 ## How to Run
 Open a terminal or command prompt and navigate to the directory containing the script. Run the scrip using the following command: 
+``` Python
      python temperature_converter.py
+```
 
 # Note
 Ensure that you enter a valid numeric value for the temperature.
